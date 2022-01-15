@@ -1,2 +1,2 @@
 # OBI
-Local de armazenamento das resoluções de exercícios da OBI
+Armazenamento das resoluções de exercícios da OBI
